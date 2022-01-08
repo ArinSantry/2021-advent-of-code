@@ -4,11 +4,8 @@ import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
 
-public class Day2 {
+public class Day1_2 {
     public static void main(String[] args) {
-        int num1 = 0;
-        int num2 = 0;
-        int num3 = 0;
         int sum1 = 0;
         int sum2 = 0;
         int nums[] = new int[2000];
